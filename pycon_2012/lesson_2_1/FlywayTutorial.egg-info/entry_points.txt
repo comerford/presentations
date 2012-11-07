@@ -1,4 +1,0 @@
-
-    [flyway.migrations]
-    a = flyway_tutorial.migrations_a
-    b = flyway_tutorial.migrations_b
